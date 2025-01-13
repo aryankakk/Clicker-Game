@@ -13,7 +13,7 @@ A browser-based interactive clicking game built with **JavaScript**, **HTML**, a
 - CSS
 
 ## Live Demo
-Check out the live demo here: [Clicker Game](https://yourusername.github.io/Clicker-Game)
+Check out the live demo here: [Clicker Game](https://aryankakk.github.io/Clicker-game/)
 
 ## How to Play
 1. Select a difficulty level (Easy, Medium, or Hard).
