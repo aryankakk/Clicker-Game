@@ -21,4 +21,4 @@ Check out the live demo here: [Clicker Game](https://yourusername.github.io/Clic
 3. Track your score and aim for a new high score!
 
 ## Author
-- **Aryan Kakkar** ([GitHub Profile](https://github.com/yourusername))
+- **Aryan Kakkar** ([GitHub Profile](https://github.com/aryankakk))
